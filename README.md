@@ -167,7 +167,7 @@ Real-time violation detection and multi-day trip planning.
 
 **Himanshu Singh** - Full Stack Developer
 - GitHub: [@GeekYasuo](https://github.com/GeekYasuo)
-- LinkedIn: [himanshu-singh-b7a44013a](https://linkedin.com/in/himanshu-singh-b7a44013a)
+- LinkedIn: [himanshu-singh](https://www.linkedin.com/in/geekhimanshu/)
 
 ## 📝 Assessment
 
