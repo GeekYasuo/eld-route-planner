@@ -5,6 +5,40 @@ A comprehensive full-stack web application that helps commercial truck drivers p
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen)](https://eld-route-planner-2d26buef0-geekyasuos-projects.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/GeekYasuo/eld-route-planner)
 
+## 🎯 Live Demo
+
+**🌐 Frontend**: [https://eld-route-planner-2d26buef0-geekyasuos-projects.vercel.app](https://eld-route-planner-2d26buef0-geekyasuos-projects.vercel.app)
+
+**Demo Routes to Try**:
+- **Short Route** (Compliant): Atlanta, GA → Charlotte, NC → Jacksonville, FL
+- **Long Route** (Multi-day): New York, NY → Seattle, WA → Los Angeles, CA
+
+## 📱 Screenshots
+
+### Route Planning Interface
+Professional form designed specifically for truck drivers with built-in HOS regulation reminders.
+
+![Route Planning Form](<img width="1367" height="922" alt="image" src="https://github.com/user-attachments/assets/006a1b6f-4a82-4662-85a6-36811851bb19" />
+)
+
+### Interactive Route Visualization
+Real-time route mapping with custom markers for pickup, dropoff, fuel stops, and rest areas.
+
+![Route Results with Map](<img width="1220" height="872" alt="image" src="https://github.com/user-attachments/assets/4720c0a7-f153-4454-a957-2a70230e927e" />
+)
+
+### Automated ELD Daily Logs
+Visual time grids matching real ELD devices used by commercial drivers for DOT compliance.
+
+![ELD Daily Logs](<img width="768" height="786" alt="image" src="https://github.com/user-attachments/assets/a1536191-04cb-4220-b7c2-19baa72e06c1" />
+)
+
+### HOS Compliance Dashboard
+Real-time Hours of Service violation detection with professional color-coded status indicators.
+
+![HOS Compliance](<img width="1456" height="678" alt="image" src="https://github.com/user-attachments/assets/e562e055-04f5-4972-8708-95d61832813e" />
+)
+
 ## 🌟 Features
 
 ### ✅ HOS Compliance Checking
@@ -51,14 +85,6 @@ A comprehensive full-stack web application that helps commercial truck drivers p
 - **Git & GitHub** - Version control
 - **npm** - Package management
 
-## 🚀 Live Demo
-
-**Frontend**: [https://eld-route-planner-2d26buef0-geekyasuos-projects.vercel.app](https://eld-route-planner-2d26buef0-geekyasuos-projects.vercel.app)
-
-**Demo Routes to Try**:
-- **Short Route** (Compliant): Atlanta, GA → Charlotte, NC → Jacksonville, FL
-- **Long Route** (Multi-day): New York, NY → Seattle, WA → Los Angeles, CA
-
 ## 📁 Project Structure
 
 ```
@@ -75,6 +101,7 @@ eld-route-planner/
 │   │   ├── services/          # API integration
 │   │   └── App.js            # Main application
 │   └── package.json          # Frontend dependencies
+├── screenshots/                # UI Screenshots
 └── README.md                  # This file
 ```
 
@@ -148,20 +175,6 @@ This application implements:
 - **Property-carrying drivers** - 70-hour/8-day rule
 - **Electronic Logging Device** specifications
 - **Fuel stop requirements** - Every 1,000 miles
-
-## 🎥 Demo Screenshots
-
-### Route Planning Interface
-Professional form for entering trip details with HOS regulation reminders.
-
-### Interactive Route Map
-Live visualization with custom markers for all stop types and route optimization.
-
-### ELD Daily Logs
-Automated generation of visual time grids matching real ELD devices used by truckers.
-
-### HOS Compliance Dashboard
-Real-time violation detection and multi-day trip planning.
 
 ## 👤 Developer
 
