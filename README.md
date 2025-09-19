@@ -17,26 +17,26 @@ A comprehensive full-stack web application that helps commercial truck drivers p
 
 ### Route Planning Interface
 Professional form designed specifically for truck drivers with built-in HOS regulation reminders.
-<img width="1367" height="922" alt="image" src="https://github.com/user-attachments/assets/006a1b6f-4a82-4662-85a6-36811851bb19" />
-![Route Planning Form](<img width="1367" height="922" alt="image" src="https://github.com/user-attachments/assets/006a1b6f-4a82-4662-85a6-36811851bb19" />
-)
+
+[Route Planning Form]<img width="1367" height="922" alt="image" src="https://github.com/user-attachments/assets/006a1b6f-4a82-4662-85a6-36811851bb19" />
+
 
 ### Interactive Route Visualization
 Real-time route mapping with custom markers for pickup, dropoff, fuel stops, and rest areas.
 
-![Route Results with Map]<img width="1220" height="872" alt="image" src="https://github.com/user-attachments/assets/4720c0a7-f153-4454-a957-2a70230e927e" />
+[Route Results with Map]<img width="1220" height="872" alt="image" src="https://github.com/user-attachments/assets/4720c0a7-f153-4454-a957-2a70230e927e" />
 
 
 ### Automated ELD Daily Logs
 Visual time grids matching real ELD devices used by commercial drivers for DOT compliance.
 
-![ELD Daily Logs]<img width="768" height="786" alt="image" src="https://github.com/user-attachments/assets/a1536191-04cb-4220-b7c2-19baa72e06c1" />
+[ELD Daily Logs]<img width="768" height="786" alt="image" src="https://github.com/user-attachments/assets/a1536191-04cb-4220-b7c2-19baa72e06c1" />
 
 
 ### HOS Compliance Dashboard
 Real-time Hours of Service violation detection with professional color-coded status indicators.
 
-![HOS Compliance]<img width="1456" height="678" alt="image" src="https://github.com/user-attachments/assets/e562e055-04f5-4972-8708-95d61832813e" />
+[HOS Compliance]<img width="1456" height="678" alt="image" src="https://github.com/user-attachments/assets/e562e055-04f5-4972-8708-95d61832813e" />
 
 
 ## 🌟 Features
